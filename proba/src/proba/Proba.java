@@ -6,6 +6,7 @@ public class Proba {
 	
 		System.out.println("Probaaa...");
 		System.out.println("Nova linija koda...");
+		System.out.println("Na poslu kucam kod...");
 
 	}
 
